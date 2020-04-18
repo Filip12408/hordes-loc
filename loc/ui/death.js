@@ -16,7 +16,7 @@ export default {
     pl: 'Zginąłeś',
     bn: 'আপনি মারা গেছেন',
     vi: 'Bạn đã chết',
-    sr: 'Umro si.',
+    sr: 'Умро си',
     it: 'Sei morto.'
   },
 
@@ -37,10 +37,9 @@ export default {
     pl: 'Wciśnij przycisk aby zostać wskrzeszonym przy najbliższym Conjurer',
     bn: 'নিকটতম কনজিউরারে পুনরুত্থিত হতে বাটনে চাপুন',
     vi: 'Nhấn nút để hồi sinh tại điểm gần nhất',
-    sr: 'Pritisni dugme da se resurrectuješ kod najbližeg conjurer-a.',
-    it: 'Premi il pulsante per risorgere dal conjurer più vicino.'
-  },
-
+    sr: 'Претисни дугме да би васкрсао код највлижег conjurer-a.',
+    it: 'Premi il pulsante per risorgere dal conjurer più vicino.',
+  }
   // 'Resurrect' is used in many translations/languages.
   respawn: {
     en: 'Respawn',
@@ -58,7 +57,7 @@ export default {
     pl: 'Respawn',
     bn: 'পুনর্জীবন',
     vi: 'Hồi sinh',
-    sr: 'Respawn',
+    sr: 'Васкрсни',
     it: 'Respawn'
   }
 }
